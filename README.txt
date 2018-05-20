@@ -1,0 +1,1 @@
+The aim of this project is to implement a simple peer-to-peer (P2P) system with a centralized index (CI) for downloading RFCs. The project has been coded in python and contains a server code and codes for 3 clients.
